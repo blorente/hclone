@@ -1,0 +1,22 @@
+{
+  "name": "hclone",
+  "version": "1.0.0",
+  "description": "Something something ccg",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blorente/hclone.git"
+  },
+  "keywords": [
+    "CCG"
+  ],
+  "author": "Borja Lorente Escobar",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/blorente/hclone/issues"
+  },
+  "homepage": "https://github.com/blorente/hclone#readme"
+}
